@@ -1,4 +1,4 @@
-# Machine-Learning-AI-Course---Course-Content
+# Data-Science-Agentic-AI-Course-Content
 A comprehensive course covering Machine Learning, Deep Learning, Computer Vision, NLP, and Agentic AI - from fundamentals to advanced topics.
 Complete Machine Learning & AI Course
 ![machine learning](https://github.com/user-attachments/assets/1ce4b11f-9e92-43b7-8b07-76e593de8bf7)
