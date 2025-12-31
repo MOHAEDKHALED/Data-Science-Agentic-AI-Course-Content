@@ -72,7 +72,7 @@ Recommended:
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ml-ai-course.git
+git clone https://github.com/MOHAEDKHALED/Data-Science-Agentic-AI-Course-Content.git
 cd ml-ai-course
 ```
 
